@@ -1,2 +1,2 @@
 # DesafioProjetoDio
-Desafio de projeto git/github da dio.
+Desafio de projeto criando repositorio usando o git/github.

@@ -1,0 +1,16 @@
+Bootcamp da EDUZZ!!!
+inicializando repositorio no github:
+Comandos usados;
+ - git clone(para clonar nosso repositorio no github) no meu caso eu usei o "ssh" pois,
+ja vinculei uma chave do meu github para minha maquina.
+ - git add . (para adicionar os arquivos novos pra area de stagging)
+ - git commit -m "exemplo" (para de fato dar o commit no repositorio).
+ - git push origin main (para dar o push(empurrão) no nosso repositorio para o github)
+Fiz uma alteração na branch "main" para a branch "master". (comando: git branch -M "master")
+
+
+Link para download do Git: https://git-scm.com/
+
+Meu github: https://github.com/LuuizPaes
+Meu linkedin: https://www.linkedin.com/in/luuizpaes/
+
